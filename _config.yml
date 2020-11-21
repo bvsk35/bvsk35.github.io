@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               
 facebook:
   username               :
   app_id                 :
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Sameer Kumar"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Graduate Researcher in the Department of Computer Science at Texas A&M University."
+  bio              : "I am a Graduate Researcher in the Department of Computer Science at **Texas A&M University**."
   location         : "College Station, TX, US"
   email            :
   links:
